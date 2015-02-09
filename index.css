@@ -44,13 +44,13 @@ h1 {
 .icons .fixed_width a:hover img.first  {
 	width: 50px;
 	display: none;
-	float: center;
+	float: left;
 }
 
 .icons .fixed_width a:hover img.second { 
 	width: 50px;
 	display: block;
-	float: center;
+	float: left;
 }
 
 .row .icons div {
