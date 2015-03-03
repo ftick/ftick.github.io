@@ -1,2 +1,2 @@
 # ftick.github.io
-Personal Website
+Personal Portfolio-style Website
