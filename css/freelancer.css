@@ -22,6 +22,15 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
+    color: #6a5750;
+}
+
+a2,
+a2:hover,
+a2:focus,
+a2:active,
+a2.active {
+    outline: 0;
     color: #18bc9c;
 }
 
@@ -31,6 +40,18 @@ h3,
 h4,
 h5,
 h6 {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #6a5750;
+}
+
+ha1,
+ha2,
+ha3,
+ha4,
+ha5,
+ha6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
