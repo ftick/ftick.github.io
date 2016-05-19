@@ -1,2 +1,2 @@
-# ftick.github.io
+# ianbantoto.me
 Personal Portfolio-style Website
