@@ -110,7 +110,9 @@ a {
     .masthead .intro-body .brand-heading {
       font-size: 40px; }
     .masthead .intro-body .intro-text {
-      font-size: 18px; }
+      font-size: 18px;
+
+    }
   @media (min-width: 768px) {
     .masthead {
       height: 100%;
@@ -118,8 +120,9 @@ a {
       .masthead .intro-body .brand-heading {
         font-size: 100px; }
       .masthead .intro-body .intro-text {
-        font-size: 22px; } }
+        font-size: 22px;
 
+        } }
 .btn-circle {
   font-size: 26px;
   width: 50px;
@@ -141,11 +144,22 @@ a {
 .content-section {
   padding-top: 60px; }
 
-.projects-section {
+.code-section {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background: url(../img/projects-bg.jpg) no-repeat center center scroll;
+  background: url(../img/code-bg.jpg) no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+.music-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  background: url(../img/music-bg.png) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
