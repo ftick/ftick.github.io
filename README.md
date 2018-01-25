@@ -1,2 +1,2 @@
-# <s>ianbantoto.me</s> ftick.github.io
-Personal Portfolio-style Website
+# ianbanototo.com <s>ianbantoto.me ftick.github.io</s>
+Personal Portfolio Website
